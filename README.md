@@ -27,3 +27,7 @@ If you want save some substitute, create a account user before the search
 **Installation:**
 ----------
 Install [MySQL](https://dev.mysql.com/downloads/installer/) >= 5.5
+
+**requirements:**
+pylint==1.8.1
+PyMySQL==0.8.0
